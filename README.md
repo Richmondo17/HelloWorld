@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 * [x] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
+* [X] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
